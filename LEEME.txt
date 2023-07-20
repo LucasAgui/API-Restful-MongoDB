@@ -1,0 +1,2 @@
+Me base en el archivo computacion.json para construir la base de datos.
+La base de datos se llama curso y la colección se llama computacion. 
